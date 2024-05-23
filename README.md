@@ -1,0 +1,1 @@
+# 2024-htb-the-vault-of-hope-ctf
